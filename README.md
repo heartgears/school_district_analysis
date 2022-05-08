@@ -19,15 +19,19 @@ The results were minimally affected, Thomas remained the #2 school in the distri
 
 *How does replacing the ninth-grade scores affect the following:*
   *Math and reading scores by grade*
-  Only ninth grade scores were affected, and minimally.
+  
+  Only ninth grade scores were affected, and minimally so.
 
   *Scores by school spending*
+  
   Thomas High School was in the $631-645 per student bin, and minimally affected the results of that group.
   
   *Scores by school size*
+  
   Thomas High School was in the medium school size bin, and minimally affected the results of that group.
 
   *Scores by school type*
+  
   Thomas High School is a charter school, and minimally affected the results of that group.
 
 ## Summary
